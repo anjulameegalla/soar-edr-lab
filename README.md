@@ -2,7 +2,7 @@
 
 ## Playbook workflow
 
-![diagram.png](diagram.png)
+![diagram.png](res/diagram.png)
 
 ## Azure VM
 
@@ -15,6 +15,8 @@
 
 - Repo : https://github.com/AlessandroZ/LaZagne
 
+---
+
 ## LimaCharlie config
 
 ### Installation
@@ -25,7 +27,7 @@ lc_sensor.exe -i YOUR_INSTALLATION_KEY
 
 - Docs : [https://docs.limacharlie.io/docs](https://docs.limacharlie.io/docs)
 
-![{683B2623-9FBF-4549-ACBF-675D3F643DD2}.png](683B2623-9FBF-4549-ACBF-675D3F643DD2.png)
+![{683B2623-9FBF-4549-ACBF-675D3F643DD2}.png](res/683B2623-9FBF-4549-ACBF-675D3F643DD2.png)
 
 ### LimaCharlie D&R Rule
 
@@ -74,6 +76,8 @@ rules:
     name: HackTool - Lazagne
 ```
 
+---
+
 ## Tines config
 
 ### Slack, Email, User prompt message structure
@@ -95,7 +99,9 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ### Tines Storybook
 
-![SOAR-EDR-Playbook.png](SOAR-EDR-Playbook.png)
+![SOAR-EDR-Playbook.png](res/SOAR-EDR-Playbook.png)
+
+---
 
 ## Demo
 
