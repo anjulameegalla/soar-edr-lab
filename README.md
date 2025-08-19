@@ -101,7 +101,7 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ### Tines Storybook
 
-![SOAR-EDR-Playbook.png](res/soar-edr-playbook.png)
+![soar-edr-playbook.png](res/soar-edr-playbook.png)
 
 ---
 
