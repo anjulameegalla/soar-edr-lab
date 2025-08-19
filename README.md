@@ -80,6 +80,8 @@ rules:
 
 ## Tines config
 
+- Docs : https://www.tines.com/docs
+
 ### Slack, Email, User prompt message structure
 
 ```html
