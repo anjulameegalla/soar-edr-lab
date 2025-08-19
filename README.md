@@ -27,7 +27,7 @@ lc_sensor.exe -i YOUR_INSTALLATION_KEY
 
 - Docs : [https://docs.limacharlie.io/docs](https://docs.limacharlie.io/docs)
 
-![{683B2623-9FBF-4549-ACBF-675D3F643DD2}.png](res/683B2623-9FBF-4549-ACBF-675D3F643DD2.png)
+![limacharlie.png](res/limacharlie.png)
 
 ### LimaCharlie D&R Rule
 
@@ -80,7 +80,7 @@ rules:
 
 ## Tines config
 
-- Docs : https://www.tines.com/docs
+- Docs : [https://www.tines.com/docs](https://www.tines.com/docs)
 
 ### Slack, Email, User prompt message structure
 
@@ -101,7 +101,7 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ### Tines Storybook
 
-![SOAR-EDR-Playbook.png](res/SOAR-EDR-Playbook.png)
+![SOAR-EDR-Playbook.png](res/soar-edr-playbook.png)
 
 ---
 
