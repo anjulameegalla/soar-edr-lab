@@ -1,5 +1,14 @@
 # Integration of SOAR and EDR featuring LimaCharlie and Tines
 
+
+## Demo
+
+[![Watch the video](https://img.youtube.com/vi/yDLCiHlw-6Q/maxresdefault.jpg)](https://youtu.be/yDLCiHlw-6Q)
+
+### [Watch Demo on YouTube](https://youtu.be/yDLCiHlw-6Q)
+
+---
+
 ## Playbook workflow
 
 ![diagram.png](res/diagram.png)
@@ -105,8 +114,4 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ---
 
-# Demo
-
-[![Watch the video](https://img.youtube.com/vi/yDLCiHlw-6Q/maxresdefault.jpg)](https://youtu.be/yDLCiHlw-6Q)
-
-### [Watch Demo on YouTube](https://youtu.be/yDLCiHlw-6Q)
+![Pages](http://anjula.live/soar-edr-lab/)
