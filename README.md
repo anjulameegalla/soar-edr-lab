@@ -112,6 +112,3 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ![soar-edr-playbook.png](res/soar-edr-playbook.png)
 
----
-
-![Pages](http://anjula.live/soar-edr-lab/)
