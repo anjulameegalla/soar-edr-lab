@@ -105,6 +105,7 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ---
 
-## Demo
+# Demo
 
-[https://youtu.be/8QLQ_8eqHC8](https://youtu.be/8QLQ_8eqHC8)
+[![Watch demo on YouTube](https://img.youtube.com/vi/yDLCiHlw-6Q/maxresdefault.jpg)](https://youtu.be/yDLCiHlw-6Q)
+
