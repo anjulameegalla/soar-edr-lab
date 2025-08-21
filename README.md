@@ -20,7 +20,7 @@
 
 ## LaZagne - Windows security events
 
-- Repo : https://github.com/AlessandroZ/LaZagne
+- Repo : [https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)
 
 ---
 
