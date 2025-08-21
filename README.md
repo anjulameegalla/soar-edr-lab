@@ -110,3 +110,7 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ![soar-edr-playbook.png](res/soar-edr-playbook.png)
 
+---
+
+Browse soar-edr-lab [GitHub Repo](https://github.com/anjulameegalla/soar-edr-lab/) here.
+
