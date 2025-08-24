@@ -17,18 +17,12 @@ The lab uses LimaCharlie as the EDR to monitor endpoints and detect threats, Tin
 
 ![diagram.png](res/diagram.png)
 
-## Azure VM
 
-- Resource group : SOAR-EDR-Lab
-- VM name : GOTHAM-DC
-- VM type : B2s General Purpose
-- Image : Windows Server 2022 Datacenter
 
 ## LaZagne - Windows security events
 
 - Repo : [https://github.com/AlessandroZ/LaZagne](https://github.com/AlessandroZ/LaZagne)
 
----
 
 ## LimaCharlie config
 
