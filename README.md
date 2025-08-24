@@ -7,6 +7,12 @@
 
 ---
 
+## Summary
+
+This GitHub project outlines the creation of a SOAR lab that integrates with an EDR tool to automate incident handling. The core idea is to build an automated workflow that detects, analyzes, and responds to security threats on an endpoint with minimal human intervention. This setup is designed to significantly reduce the manual workload for security teams and speed up the response to potential attacks.
+
+The lab uses LimaCharlie as the EDR to monitor endpoints and detect threats, Tines as a no-code automation platform to orchestrate the response workflow, and Slack for sending real-time notifications. The project involves installing a LimaCharlie agent on a Windows Server, configuring detection rules for malicious activity (like credential dumping via LaZagne), and then using Tines to automate actions based on the alerts. For instance, when a threat is detected, the system can automatically send a detailed alert to a Slack channel and email or even take response actions like isolating the compromised machine from the network.
+
 ## Playbook workflow
 
 ![diagram.png](res/diagram.png)
@@ -110,6 +116,3 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ![soar-edr-playbook.png](res/soar-edr-playbook.png)
 
----
-
-- ### Browse soar-edr-lab [GitHub Repo](https://github.com/anjulameegalla/soar-edr-lab/) here.
