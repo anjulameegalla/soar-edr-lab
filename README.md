@@ -108,5 +108,17 @@ Detection Link : <<retrieve_detections.body.link>>
 
 ### Tines Storybook
 
-![soar-edr-playbook.png](res/soar-edr-playbook.png)
+![soar-edr-playbook.png](res/tinesPlaybook.png)
+
+---
+
+## Evidence
+
+### Email alerts
+
+![emailAlerts.png](res/emailAlerts.png)
+
+### Slack channel alerts
+
+![slackAlerts.png](res/slackAlerts.png)
 
