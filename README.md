@@ -1,4 +1,4 @@
-# Integration of SOAR and EDR featuring LimaCharlie and Tines
+# Automated Incident Response with SOAR & EDR Integration
 
 
 ## Demo
